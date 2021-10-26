@@ -43,7 +43,7 @@ Kindly add the <code>.inverse-mode</code> to the widget will change it to the da
 
 <div class="widget-list-item">
 <div class="widget-list-media">
-<img src="../assets/img/user/user-12.jpg" width="50" alt="" class="rounded" />
+<img src="/assets/img/user/user-12.jpg" width="50" alt="" class="rounded" />
 </div>
 <div class="widget-list-content">
 <h4 class="widget-list-title">Christopher Struth</h4>
@@ -64,7 +64,7 @@ Kindly add the <code>.inverse-mode</code> to the widget will change it to the da
 
 <div class="widget-list-item">
 <div class="widget-list-media">
-<img src="../assets/img/user/user-13.jpg" width="50" alt="" class="rounded" />
+<img src="/assets/img/user/user-13.jpg" width="50" alt="" class="rounded" />
 </div>
 <div class="widget-list-content">
 <h4 class="widget-list-title">Janie Flowers</h4>
@@ -85,7 +85,7 @@ Kindly add the <code>.inverse-mode</code> to the widget will change it to the da
 
 <div class="widget-list-item">
 <div class="widget-list-media">
-<img src="../assets/img/user/user-14.jpg" width="50" alt="" class="rounded" />
+<img src="/assets/img/user/user-14.jpg" width="50" alt="" class="rounded" />
 </div>
 <div class="widget-list-content">
 <h4 class="widget-list-title">Janie Flowers</h4>
@@ -201,7 +201,7 @@ Off
 
 <div class="widget-chat-item with-media start">
 <div class="widget-chat-media">
-<img alt="" src="../assets/img/user/user-1.jpg" />
+<img alt="" src="/assets/img/user/user-1.jpg" />
 </div>
 <div class="widget-chat-info">
 <div class="widget-chat-info-container">
@@ -215,7 +215,7 @@ Off
 
 <div class="widget-chat-item with-media start">
 <div class="widget-chat-media">
-<img alt="" src="../assets/img/user/user-2.jpg" />
+<img alt="" src="/assets/img/user/user-2.jpg" />
 </div>
 <div class="widget-chat-info">
 <div class="widget-chat-info-container">
@@ -240,7 +240,7 @@ Off
 
 <div class="widget-chat-item with-media start">
 <div class="widget-chat-media">
-<img alt="" src="../assets/img/user/user-3.jpg" />
+<img alt="" src="/assets/img/user/user-3.jpg" />
 </div>
 <div class="widget-chat-info">
 <div class="widget-chat-info-container">
@@ -250,26 +250,26 @@ Here is some images for New Zealand
 <div class="row gx-1 mt-5px">
 <div class="col-md-4">
 <a href="#" class="widget-card widget-card-sm square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-51-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-51-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card widget-card-sm square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-52-thumb.jpg)"></div>
-</a>
-</div>
-<div class="col-md-4">
-<a href="#" class="widget-card widget-card-sm square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-53-thumb.jpg)"></div>
-</a>
-<a href="#" class="widget-card widget-card-sm square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-54-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-52-thumb.jpg)"></div>
 </a>
 </div>
 <div class="col-md-4">
 <a href="#" class="widget-card widget-card-sm square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-59-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-53-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card widget-card-sm square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-60-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-54-thumb.jpg)"></div>
+</a>
+</div>
+<div class="col-md-4">
+<a href="#" class="widget-card widget-card-sm square mb-1">
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-59-thumb.jpg)"></div>
+</a>
+<a href="#" class="widget-card widget-card-sm square mb-1">
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-60-thumb.jpg)"></div>
 </a>
 </div>
 </div>
@@ -500,18 +500,18 @@ Here is some images for New Zealand
 
 <div class="col-sm-6">
 <div class="float-start">
-<div class="widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(../assets/img/gallery/gallery-11-thumb.jpg)"></div>
-<div class="widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(../assets/img/gallery/gallery-12-thumb.jpg)"></div>
-<div class="widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(../assets/img/gallery/gallery-13-thumb.jpg)"></div>
-<div class="widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(../assets/img/gallery/gallery-14-thumb.jpg)"></div>
-<div class="widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(../assets/img/gallery/gallery-15-thumb.jpg)"></div>
-<div class="widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(../assets/img/gallery/gallery-16-thumb.jpg)"></div>
+<div class="widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(/assets/img/gallery/gallery-11-thumb.jpg)"></div>
+<div class="widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(/assets/img/gallery/gallery-12-thumb.jpg)"></div>
+<div class="widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(/assets/img/gallery/gallery-13-thumb.jpg)"></div>
+<div class="widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(/assets/img/gallery/gallery-14-thumb.jpg)"></div>
+<div class="widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(/assets/img/gallery/gallery-15-thumb.jpg)"></div>
+<div class="widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(/assets/img/gallery/gallery-16-thumb.jpg)"></div>
 <br />
-<div class="widget-img widget-img-xl rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(../assets/img/gallery/gallery-21-thumb.jpg)"></div>
-<div class="widget-img widget-img-lg rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(../assets/img/gallery/gallery-22-thumb.jpg)"></div>
-<div class="widget-img widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(../assets/img/gallery/gallery-23-thumb.jpg)"></div>
-<div class="widget-img widget-img-sm rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(../assets/img/gallery/gallery-24-thumb.jpg)"></div>
-<div class="widget-img widget-img-xs rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(../assets/img/gallery/gallery-25-thumb.jpg)"></div>
+<div class="widget-img widget-img-xl rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(/assets/img/gallery/gallery-21-thumb.jpg)"></div>
+<div class="widget-img widget-img-lg rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(/assets/img/gallery/gallery-22-thumb.jpg)"></div>
+<div class="widget-img widget-img rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(/assets/img/gallery/gallery-23-thumb.jpg)"></div>
+<div class="widget-img widget-img-sm rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(/assets/img/gallery/gallery-24-thumb.jpg)"></div>
+<div class="widget-img widget-img-xs rounded bg-inverse float-start me-5px mb-5px" style="background-image: url(/assets/img/gallery/gallery-25-thumb.jpg)"></div>
 </div>
 </div>
 
@@ -527,7 +527,7 @@ Here is some images for New Zealand
 <div class="col-sm-6">
 
 <a href="#" class="widget-card rounded mb-20px" data-id="widget">
-<div class="widget-card-cover rounded" style="background-image: url(../assets/img/gallery/gallery-portrait-11-thumb.jpg)"></div>
+<div class="widget-card-cover rounded" style="background-image: url(/assets/img/gallery/gallery-portrait-11-thumb.jpg)"></div>
 <div class="widget-card-content">
 <b class="text-white">Download and get free trial.</b>
 </div>
@@ -572,20 +572,20 @@ Here is some images for New Zealand
 
 <div class="col-6">
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/login-bg/login-bg-1-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/login-bg/login-bg-1-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/login-bg/login-bg-2-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/login-bg/login-bg-2-thumb.jpg)"></div>
 </a>
 </div>
 
 
 <div class="col-6">
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/login-bg/login-bg-3-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/login-bg/login-bg-3-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/login-bg/login-bg-4-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/login-bg/login-bg-4-thumb.jpg)"></div>
 </a>
 </div>
 
@@ -598,7 +598,7 @@ Here is some images for New Zealand
 
 <div class="col-xs-6 col-sm-3">
 <a href="#" class="widget-card rounded square mb-5px">
-<div class="widget-card-cover" style="background-image: url(../assets/img/login-bg/login-bg-7-thumb.jpg)">
+<div class="widget-card-cover" style="background-image: url(/assets/img/login-bg/login-bg-7-thumb.jpg)">
 <span class="widget-card-cover-icon"><i class="fa fa-play fa-lg"></i></span>
 </div>
 </a>
@@ -609,7 +609,7 @@ Here is some images for New Zealand
 
 <div class="col-xs-6 col-sm-3">
 <a href="#" class="widget-card rounded square mb-5px">
-<div class="widget-card-cover" style="background-image: url(../assets/img/login-bg/login-bg-10-thumb.jpg)">
+<div class="widget-card-cover" style="background-image: url(/assets/img/login-bg/login-bg-10-thumb.jpg)">
 <div class="d-flex h-100 align-items-center justify-content-center">
 <div class="text-center">
 <div class="text-white fs-14px"><b>PORTRAITS OF</b></div>
@@ -629,64 +629,64 @@ Here is some images for New Zealand
 
 <div class="col-3">
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-1-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-1-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-2-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-2-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-3-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-3-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-4-thumb.jpg)"></div>
-</a>
-</div>
-
-
-<div class="col-3">
-<a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-5-thumb.jpg)"></div>
-</a>
-<a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-6-thumb.jpg)"></div>
-</a>
-<a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-7-thumb.jpg)"></div>
-</a>
-<a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-8-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-4-thumb.jpg)"></div>
 </a>
 </div>
 
 
 <div class="col-3">
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-9-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-5-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-10-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-6-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-11-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-7-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-12-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-8-thumb.jpg)"></div>
 </a>
 </div>
 
 
 <div class="col-3">
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-13-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-9-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-14-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-10-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-15-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-11-thumb.jpg)"></div>
 </a>
 <a href="#" class="widget-card rounded square mb-1">
-<div class="widget-card-cover" style="background-image: url(../assets/img/gallery/gallery-16-thumb.jpg)"></div>
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-12-thumb.jpg)"></div>
+</a>
+</div>
+
+
+<div class="col-3">
+<a href="#" class="widget-card rounded square mb-1">
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-13-thumb.jpg)"></div>
+</a>
+<a href="#" class="widget-card rounded square mb-1">
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-14-thumb.jpg)"></div>
+</a>
+<a href="#" class="widget-card rounded square mb-1">
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-15-thumb.jpg)"></div>
+</a>
+<a href="#" class="widget-card rounded square mb-1">
+<div class="widget-card-cover" style="background-image: url(/assets/img/gallery/gallery-16-thumb.jpg)"></div>
 </a>
 </div>
 
@@ -878,7 +878,7 @@ Here is some images for New Zealand
 <tbody>
 <tr>
 <td>
-<img src="../assets/img/product/product-6.png" width="100" />
+<img src="/assets/img/product/product-6.png" width="100" />
 </td>
 <td>
 <h5 class="mb-1">Mavic Pro Combo</h5>
@@ -903,7 +903,7 @@ status:
 </tr>
 <tr>
 <td>
-<img src="../assets/img/product/product-7.png" width="100" />
+<img src="/assets/img/product/product-7.png" width="100" />
 </td>
 <td>
 <h5 class="mb-1">Inspire 2</h5>
@@ -1093,7 +1093,7 @@ status:
     &lt;div class="text-center text-gray-500 m-3 fw-bold"&gt;Today&lt;/div&gt;
     &lt;div class="widget-chat-item with-media start"&gt;
       &lt;div class="widget-chat-media"&gt;
-        &lt;img alt="" src="../assets/img/user/user-1.jpg" /&gt;
+        &lt;img alt="" src="/assets/img/user/user-1.jpg" /&gt;
       &lt;/div&gt;
       &lt;div class="widget-chat-info"&gt;
         &lt;div class="widget-chat-info-container"&gt;
@@ -1151,7 +1151,7 @@ status:
   &lt;!-- begin widget-list-item --&gt;
   &lt;div class="widget-list-item"&gt;
     &lt;div class="widget-list-media"&gt;
-      &lt;img src="../assets/img/user/user-1.jpg" width="50" class="rounded" /&gt;
+      &lt;img src="/assets/img/user/user-1.jpg" width="50" class="rounded" /&gt;
     &lt;/div&gt;
     &lt;div class="widget-list-content"&gt;
       &lt;h4 class="widget-list-title"&gt;Christopher Struth&lt;/h4&gt;
@@ -1249,7 +1249,7 @@ status:
 &lt;!-- end widget-icon-sizes --&gt;
 
 &lt;!-- begin widget-img --&gt;
-&lt;div class="widget-img rounded bg-inverse" style="background-image: url(../assets/img/gallery/gallery-11-thumb.jpg)"&gt;
+&lt;div class="widget-img rounded bg-inverse" style="background-image: url(/assets/img/gallery/gallery-11-thumb.jpg)"&gt;
 &lt;/div&gt;
 &lt;!-- end widget-img --&gt;
 
@@ -1282,7 +1282,7 @@ status:
 <button type="button" class="btn btn-gray-500 btn-sm btn-clipboard w-60px" data-clipboard-target="#source-widget-card">Copy</button>
 <pre class="mb-0"><code class="html" id="source-widget-card">&lt;!-- begin widget-card --&gt;
 &lt;a href="#" class="widget-card rounded<span class="hljs-string" data-id="widget-doc" data-dark-doc=" inverse-mode" data-light-doc=""></span>"&gt;
-  &lt;div class="widget-card-cover rounded" style="background-image: url(../assets/img/gallery/gallery-portrait-11-thumb.jpg)"&gt;&lt;/div&gt;
+  &lt;div class="widget-card-cover rounded" style="background-image: url(/assets/img/gallery/gallery-portrait-11-thumb.jpg)"&gt;&lt;/div&gt;
   &lt;div class="widget-card-content"&gt;
     &lt;b class="text-white"&gt;Download and get free trial.&lt;/b&gt;
   &lt;/div&gt;
@@ -1315,7 +1315,7 @@ status:
 <button type="button" class="btn btn-gray-500 btn-sm btn-clipboard w-60px" data-clipboard-target="#source-widget-card-square">Copy</button>
 <pre class="mb-0"><code class="html" id="source-widget-card-square">&lt;!-- begin widget-card-square --&gt;
 &lt;a href="#" class="widget-card rounded square mb-5px<span class="hljs-string" data-id="widget-doc" data-dark-doc=" inverse-mode" data-light-doc=""></span>"&gt;
-  &lt;div class="widget-card-cover rounded" style="background-image: url(../assets/img/login-bg/login-bg-10.jpg)"&gt;
+  &lt;div class="widget-card-cover rounded" style="background-image: url(/assets/img/login-bg/login-bg-10.jpg)"&gt;
     &lt;div class="d-flex h-100 align-items-center justify-content-center"&gt;
       &lt;div class="text-center"&gt;
         &lt;div class="text-white fs-14px"&gt;&lt;b&gt;PORTRAITS OF&lt;/b&gt;&lt;/div&gt;
@@ -1468,7 +1468,7 @@ status:
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;
-        &lt;img src="../assets/img/product/product-6.png" width="100" /&gt;
+        &lt;img src="/assets/img/product/product-6.png" width="100" /&gt;
       &lt;/td&gt;
       &lt;td&gt;
         &lt;h5&gt;Mavic Pro Combo&lt;/h5&gt;
@@ -1507,18 +1507,18 @@ status:
 <h5>App Settings</h5>
 
 <div class="theme-list">
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-red" data-theme="red" data-theme-file="../assets/css/default/theme/red.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Red">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-pink" data-theme="pink" data-theme-file="../assets/css/default/theme/pink.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Pink">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-orange" data-theme="orange" data-theme-file="../assets/css/default/theme/orange.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Orange">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-yellow" data-theme="yellow" data-theme-file="../assets/css/default/theme/yellow.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Yellow">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-lime" data-theme="lime" data-theme-file="../assets/css/default/theme/lime.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Lime">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-green" data-theme="green" data-theme-file="../assets/css/default/theme/green.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Green">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-red" data-theme="red" data-theme-file="/assets/css/default/theme/red.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Red">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-pink" data-theme="pink" data-theme-file="/assets/css/default/theme/pink.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Pink">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-orange" data-theme="orange" data-theme-file="/assets/css/default/theme/orange.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Orange">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-yellow" data-theme="yellow" data-theme-file="/assets/css/default/theme/yellow.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Yellow">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-lime" data-theme="lime" data-theme-file="/assets/css/default/theme/lime.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Lime">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-green" data-theme="green" data-theme-file="/assets/css/default/theme/green.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Green">&nbsp;</a></div>
 <div class="theme-list-item active"><a href="javascript:;" class="theme-list-link bg-teal" data-theme="default" data-theme-file="" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Default">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-cyan" data-theme="cyan" data-theme-file="../assets/css/default/theme/cyan.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Cyan">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-blue" data-theme="blue" data-theme-file="../assets/css/default/theme/blue.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Blue">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-purple" data-theme="purple" data-theme-file="../assets/css/default/theme/purple.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Purple">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-indigo" data-theme="indigo" data-theme-file="../assets/css/default/theme/indigo.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Indigo">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-black" data-theme="black" data-theme-file="../assets/css/default/theme/black.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Black">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-cyan" data-theme="cyan" data-theme-file="/assets/css/default/theme/cyan.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Cyan">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-blue" data-theme="blue" data-theme-file="/assets/css/default/theme/blue.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Blue">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-purple" data-theme="purple" data-theme-file="/assets/css/default/theme/purple.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Purple">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-indigo" data-theme="indigo" data-theme-file="/assets/css/default/theme/indigo.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Indigo">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-black" data-theme="black" data-theme-file="/assets/css/default/theme/black.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Black">&nbsp;</a></div>
 </div>
 
 <div class="theme-panel-divider"></div>
@@ -1575,32 +1575,32 @@ status:
 <div class="theme-version">
 <div class="theme-version-item">
 <a href="index_v2.html" class="theme-version-link active">
-<span style="background-image: url(../assets/img/theme/default.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/default.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/transparent/index_v2.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/transparent.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/transparent.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/apple/index_v2.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/apple.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/apple.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/material/index_v2.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/material.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/material.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/facebook/index_v2.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/facebook.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/facebook.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/google/index_v2.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/google.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/google.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 </div>
@@ -1611,42 +1611,42 @@ status:
 <div class="theme-version">
 <div class="theme-version-item">
 <a href="index.html" class="theme-version-link active">
-<span style="background-image: url(../assets/img/version/html.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/html.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/ajax/index.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/ajax.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/ajax.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/angularjs/index.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/angular1x.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/angular1x.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/angularjs11/index.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/angular10x.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/angular10x.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="javascript:alert('Laravel Version only available in downloaded version.');" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/laravel.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/laravel.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/vuejs/index.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/vuejs.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/vuejs.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/reactjs/index.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/reactjs.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/reactjs.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="javascript:alert('.NET Core 5.0 MVC Version only available in downloaded version.');" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/dotnet.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/dotnet.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 </div>
@@ -1657,27 +1657,27 @@ status:
 <div class="theme-version">
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/frontend/one-page-parallax/index.html" target="_blank" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/one-page-parallax.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/one-page-parallax.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/frontend/e-commerce/index.html" target="_blank" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/e-commerce.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/e-commerce.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/frontend/blog/index.html" target="_blank" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/blog.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/blog.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/frontend/forum/index.html" target="_blank" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/forum.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/forum.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/frontend/corporate/index.html" target="_blank" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/corporate.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/corporate.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 </div>

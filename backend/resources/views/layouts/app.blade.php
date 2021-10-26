@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<!-- Mirrored from seantheme.com/color-admin/admin/html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 26 Oct 2021 02:40:21 GMT -->
 <head>
 <meta charset="utf-8" />
 <title>Wakilishwa</title>
@@ -10,8 +8,8 @@
 <meta content="" name="author" />
 
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
-<link href="assets/css/vendor.min.css" rel="stylesheet" />
-<link href="assets/css/default/app.min.css" rel="stylesheet" />
+<link href="/assets/css/vendor.min.css" rel="stylesheet" />
+<link href="/assets/css/default/app.min.css" rel="stylesheet" />
 
 
 <link href="/assets/plugins/jvectormap-next/jquery-jvectormap.css" rel="stylesheet" />
@@ -67,7 +65,7 @@
 </a>
 <a href="javascript:;" class="dropdown-item media">
 <div class="media-left">
-<img src="../assets/img/user/user-1.jpg" class="media-object" alt="" />
+<img src="/assets/img/user/user-1.jpg" class="media-object" alt="" />
 <i class="fab fa-facebook-messenger text-blue media-object-icon"></i>
 </div>
 <div class="media-body">
@@ -78,7 +76,7 @@
 </a>
 <a href="javascript:;" class="dropdown-item media">
 <div class="media-left">
-<img src="../assets/img/user/user-2.jpg" class="media-object" alt="" />
+<img src="/assets/img/user/user-2.jpg" class="media-object" alt="" />
 <i class="fab fa-facebook-messenger text-blue media-object-icon"></i>
 </div>
 <div class="media-body">
@@ -113,7 +111,7 @@
 </div>
 <div class="navbar-item navbar-user dropdown">
 <a href="#" class="navbar-link dropdown-toggle d-flex align-items-center" data-bs-toggle="dropdown">
-<img src="../assets/img/user/user-13.jpg" alt="" />
+<img src="/assets/img/user/user-13.jpg" alt="" />
 <span>
 <span class="d-none d-md-inline">Adam Schwartz</span>
 <b class="caret"></b>
@@ -142,7 +140,7 @@
 <a href="javascript:;" class="menu-profile-link" data-toggle="app-sidebar-profile" data-target="#appSidebarProfileMenu">
 <div class="menu-profile-cover with-shadow"></div>
 <div class="menu-profile-image">
-<img src="../assets/img/user/user-13.jpg" alt="" />
+<img src="/assets/img/user/user-13.jpg" alt="" />
 </div>
 <div class="menu-profile-info">
 <div class="d-flex align-items-center">
@@ -325,7 +323,7 @@ Sean Ngu
 <div class="menu-item ">
 <a href="bootstrap_5.html" class="menu-link">
 <div class="menu-icon-img">
-<img src="../assets/img/logo/logo-bs5.png" alt="" />
+<img src="/assets/img/logo/logo-bs5.png" alt="" />
 </div>
 <div class="menu-text">Bootstrap 5 <span class="menu-label">NEW</span></div>
 </a>
@@ -1072,7 +1070,7 @@ Sean Ngu
 <div class="h-300px p-3" data-scrollbar="true">
 <div class="d-sm-flex">
 <a href="javascript:;" class="w-sm-200px">
-<img class="mw-100 rounded" src="../assets/img/gallery/gallery-1.jpg" alt="" />
+<img class="mw-100 rounded" src="/assets/img/gallery/gallery-1.jpg" alt="" />
 </a>
 <div class="flex-1 ps-sm-3 pt-3 pt-sm-0">
 <h5>Aenean viverra arcu nec pellentesque ultrices. In erat purus, adipiscing nec lacinia at, ornare ac eros.</h5>
@@ -1082,7 +1080,7 @@ Nullam at risus metus. Quisque nisl purus, pulvinar ut mauris vel, elementum sus
 <hr class="bg-gray-500" />
 <div class="d-sm-flex">
 <a href="javascript:;" class="w-sm-200px">
-<img class="mw-100 rounded" src="../assets/img/gallery/gallery-10.jpg" alt="" />
+<img class="mw-100 rounded" src="/assets/img/gallery/gallery-10.jpg" alt="" />
 </a>
 <div class="flex-1 ps-sm-3 pt-3 pt-sm-0">
 <h5>Vestibulum vitae diam nec odio dapibus placerat. Ut ut lorem justo.</h5>
@@ -1092,7 +1090,7 @@ Fusce bibendum augue nec fermentum tempus. Sed laoreet dictum tempus. Aenean ac 
 <hr class="bg-gray-500" />
 <div class="d-sm-flex">
 <a href="javascript:;" class="w-sm-200px">
-<img class="mw-100 rounded" src="../assets/img/gallery/gallery-7.jpg" alt="" />
+<img class="mw-100 rounded" src="/assets/img/gallery/gallery-7.jpg" alt="" />
 </a>
 <div class="flex-1 ps-sm-3 pt-3 pt-sm-0">
 <h5>Maecenas eget turpis luctus, scelerisque arcu id, iaculis urna. Interdum et malesuada fames ac ante ipsum primis in faucibus.</h5>
@@ -1102,7 +1100,7 @@ Morbi placerat est nec pharetra placerat. Ut laoreet nunc accumsan orci aliquam 
 <hr class="bg-gray-500" />
 <div class="d-sm-flex">
 <a href="javascript:;" class="w-sm-200px">
-<img class="mw-100 rounded" src="../assets/img/gallery/gallery-8.jpg" alt="" />
+<img class="mw-100 rounded" src="/assets/img/gallery/gallery-8.jpg" alt="" />
 </a>
 <div class="flex-1 ps-sm-3 pt-3 pt-sm-0">
 <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor accumsan rutrum.</h5>
@@ -1128,7 +1126,7 @@ Fusce augue diam, vestibulum a mattis sit amet, vehicula eu ipsum. Vestibulum eu
 <td class="fw-bold text-muted">13/02/2021</td>
 <td class="hidden-sm text-center">
 <a href="javascript:;">
-<img src="../assets/img/product/product-1.png" alt="" width="32px" />
+<img src="/assets/img/product/product-1.png" alt="" width="32px" />
 </a>
 </td>
  <td class="text-nowrap">
@@ -1141,7 +1139,7 @@ Fusce augue diam, vestibulum a mattis sit amet, vehicula eu ipsum. Vestibulum eu
 <td class="fw-bold text-muted">13/02/2021</td>
 <td class="hidden-sm text-center">
 <a href="javascript:;">
-<img src="../assets/img/product/product-2.png" alt="" width="32px" />
+<img src="/assets/img/product/product-2.png" alt="" width="32px" />
 </a>
 </td>
 <td class="text-nowrap">
@@ -1154,7 +1152,7 @@ Fusce augue diam, vestibulum a mattis sit amet, vehicula eu ipsum. Vestibulum eu
 <td class="fw-bold text-muted">13/02/2021</td>
 <td class="hidden-sm text-center">
 <a href="javascript:;">
-<img src="../assets/img/product/product-3.png" alt="" width="32px" />
+<img src="/assets/img/product/product-3.png" alt="" width="32px" />
 </a>
 </td>
 <td class="text-nowrap">
@@ -1167,7 +1165,7 @@ Fusce augue diam, vestibulum a mattis sit amet, vehicula eu ipsum. Vestibulum eu
 <td class="fw-bold text-muted">13/02/2021</td>
 <td class="hidden-sm text-center">
 <a href="javascript:;">
-<img src="../assets/img/product/product-4.png" alt="" width="32px" />
+<img src="/assets/img/product/product-4.png" alt="" width="32px" />
 </a>
 </td>
 <td class="text-nowrap">
@@ -1180,7 +1178,7 @@ Fusce augue diam, vestibulum a mattis sit amet, vehicula eu ipsum. Vestibulum eu
 <td class="fw-bold text-muted">13/02/2021</td>
 <td class="hidden-sm text-center">
 <a href="javascript:;">
-<img src="../assets/img/product/product-5.png" alt="" width="32px" />
+<img src="/assets/img/product/product-5.png" alt="" width="32px" />
 </a>
 </td>
 <td class="text-nowrap">
@@ -1197,7 +1195,7 @@ Fusce augue diam, vestibulum a mattis sit amet, vehicula eu ipsum. Vestibulum eu
 <div class="h-300px p-3" data-scrollbar="true">
 <div class="d-flex">
 <a class="w-60px" href="javascript:;">
-<img src="../assets/img/user/user-1.jpg" alt="" class="mw-100 rounded-pill" />
+<img src="/assets/img/user/user-1.jpg" alt="" class="mw-100 rounded-pill" />
 </a>
 <div class="flex-1 ps-3">
 <a href="javascript:;" class="text-inverse text-decoration-none"><h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h5></a>
@@ -1210,7 +1208,7 @@ Aenean mollis arcu sed turpis accumsan dignissim. Etiam vel tortor at risus tris
 <hr class="bg-gray-500" />
 <div class="d-flex">
 <a class="w-60px" href="javascript:;">
-<img src="../assets/img/user/user-2.jpg" alt="" class="mw-100 rounded-pill" />
+<img src="/assets/img/user/user-2.jpg" alt="" class="mw-100 rounded-pill" />
 </a>
 <div class="flex-1 ps-3">
 <a href="javascript:;" class="text-inverse text-decoration-none"><h5>Praesent et sem porta leo tempus tincidunt eleifend et arcu.</h5></a>
@@ -1223,7 +1221,7 @@ Proin adipiscing dui nulla. Duis pharetra vel sem ac adipiscing. Vestibulum ut p
 <hr class="bg-gray-500" />
 <div class="d-flex">
 <a class="w-60px" href="javascript:;">
-<img src="../assets/img/user/user-3.jpg" alt="" class="mw-100 rounded-pill" />
+<img src="/assets/img/user/user-3.jpg" alt="" class="mw-100 rounded-pill" />
 </a>
 <div class="flex-1 ps-3">
 <a href="javascript:;" class="text-inverse text-decoration-none"><h5>Ut mi eros, varius nec mi vel, consectetur convallis diam.</h5></a>
@@ -1236,7 +1234,7 @@ Ut mi eros, varius nec mi vel, consectetur convallis diam. Nullam eget hendrerit
 <hr class="bg-gray-500" />
 <div class="d-flex">
 <a class="w-60px" href="javascript:;">
-<img src="../assets/img/user/user-4.jpg" alt="" class="mw-100 rounded-pill" />
+<img src="/assets/img/user/user-4.jpg" alt="" class="mw-100 rounded-pill" />
 </a>
 <div class="flex-1 ps-3">
 <a href="javascript:;" class="text-inverse text-decoration-none"><h5>Aliquam nec dolor vel nisl dictum ullamcorper.</h5></a>
@@ -1297,7 +1295,7 @@ Aliquam nec dolor vel nisl dictum ullamcorper. Duis vel magna enim. Aenean volut
 <div class="h-300px p-3" data-scrollbar="true">
 <div class="d-flex">
 <a href="javascript:;" class="w-60px">
-<img src="../assets/img/user/user-5.jpg" alt="" class="mw-100 rounded-pill" />
+<img src="/assets/img/user/user-5.jpg" alt="" class="mw-100 rounded-pill" />
 </a>
 <div class="flex-1 ps-3">
 <h5>John Doe</h5>
@@ -1307,7 +1305,7 @@ Aliquam nec dolor vel nisl dictum ullamcorper. Duis vel magna enim. Aenean volut
 <hr class="bg-gray-500" />
 <div class="d-flex">
 <a href="javascript:;" class="w-60px">
-<img src="../assets/img/user/user-6.jpg" alt="" class="mw-100 rounded-pill" />
+<img src="/assets/img/user/user-6.jpg" alt="" class="mw-100 rounded-pill" />
 </a>
 <div class="flex-1 ps-3">
 <h5>Terry Ng</h5>
@@ -1317,7 +1315,7 @@ Aliquam nec dolor vel nisl dictum ullamcorper. Duis vel magna enim. Aenean volut
 <hr class="bg-gray-500" />
 <div class="d-flex">
 <a href="javascript:;" class="w-60px">
-<img src="../assets/img/user/user-8.jpg" alt="" class="mw-100 rounded-pill" />
+<img src="/assets/img/user/user-8.jpg" alt="" class="mw-100 rounded-pill" />
 </a>
 <div class="flex-1 ps-3">
 <h5>Fiona Log</h5>
@@ -1327,7 +1325,7 @@ Aliquam nec dolor vel nisl dictum ullamcorper. Duis vel magna enim. Aenean volut
 <hr class="bg-gray-500" />
 <div class="d-flex">
 <a href="javascript:;" class="w-60px">
-<img src="../assets/img/user/user-7.jpg" alt="" class="mw-100 rounded-pill" />
+<img src="/assets/img/user/user-7.jpg" alt="" class="mw-100 rounded-pill" />
 </a>
 <div class="flex-1 ps-3">
 <h5>John Doe</h5>
@@ -1540,18 +1538,18 @@ Aliquam nec dolor vel nisl dictum ullamcorper. Duis vel magna enim. Aenean volut
 <h5>App Settings</h5>
 
 <div class="theme-list">
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-red" data-theme="red" data-theme-file="../assets/css/default/theme/red.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Red">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-pink" data-theme="pink" data-theme-file="../assets/css/default/theme/pink.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Pink">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-orange" data-theme="orange" data-theme-file="../assets/css/default/theme/orange.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Orange">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-yellow" data-theme="yellow" data-theme-file="../assets/css/default/theme/yellow.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Yellow">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-lime" data-theme="lime" data-theme-file="../assets/css/default/theme/lime.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Lime">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-green" data-theme="green" data-theme-file="../assets/css/default/theme/green.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Green">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-red" data-theme="red" data-theme-file="/assets/css/default/theme/red.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Red">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-pink" data-theme="pink" data-theme-file="/assets/css/default/theme/pink.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Pink">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-orange" data-theme="orange" data-theme-file="/assets/css/default/theme/orange.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Orange">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-yellow" data-theme="yellow" data-theme-file="/assets/css/default/theme/yellow.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Yellow">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-lime" data-theme="lime" data-theme-file="/assets/css/default/theme/lime.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Lime">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-green" data-theme="green" data-theme-file="/assets/css/default/theme/green.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Green">&nbsp;</a></div>
 <div class="theme-list-item active"><a href="javascript:;" class="theme-list-link bg-teal" data-theme="default" data-theme-file="" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Default">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-cyan" data-theme="cyan" data-theme-file="../assets/css/default/theme/cyan.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Cyan">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-blue" data-theme="blue" data-theme-file="../assets/css/default/theme/blue.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Blue">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-purple" data-theme="purple" data-theme-file="../assets/css/default/theme/purple.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Purple">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-indigo" data-theme="indigo" data-theme-file="../assets/css/default/theme/indigo.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Indigo">&nbsp;</a></div>
-<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-black" data-theme="black" data-theme-file="../assets/css/default/theme/black.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Black">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-cyan" data-theme="cyan" data-theme-file="/assets/css/default/theme/cyan.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Cyan">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-blue" data-theme="blue" data-theme-file="/assets/css/default/theme/blue.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Blue">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-purple" data-theme="purple" data-theme-file="/assets/css/default/theme/purple.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Purple">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-indigo" data-theme="indigo" data-theme-file="/assets/css/default/theme/indigo.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Indigo">&nbsp;</a></div>
+<div class="theme-list-item"><a href="javascript:;" class="theme-list-link bg-black" data-theme="black" data-theme-file="/assets/css/default/theme/black.min.css" data-toggle="theme-selector" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-container="body" data-bs-title="Black">&nbsp;</a></div>
 </div>
 
 <div class="theme-panel-divider"></div>
@@ -1608,32 +1606,32 @@ Aliquam nec dolor vel nisl dictum ullamcorper. Duis vel magna enim. Aenean volut
 <div class="theme-version">
 <div class="theme-version-item">
 <a href="index_v2.html" class="theme-version-link active">
-<span style="background-image: url(../assets/img/theme/default.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/default.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/transparent/index_v2.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/transparent.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/transparent.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/apple/index_v2.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/apple.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/apple.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/material/index_v2.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/material.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/material.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/facebook/index_v2.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/facebook.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/facebook.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/google/index_v2.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/google.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/google.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 </div>
@@ -1644,42 +1642,42 @@ Aliquam nec dolor vel nisl dictum ullamcorper. Duis vel magna enim. Aenean volut
 <div class="theme-version">
 <div class="theme-version-item">
 <a href="index.html" class="theme-version-link active">
-<span style="background-image: url(../assets/img/version/html.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/html.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/ajax/index.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/ajax.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/ajax.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/angularjs/index.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/angular1x.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/angular1x.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/angularjs11/index.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/angular10x.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/angular10x.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="javascript:alert('Laravel Version only available in downloaded version.');" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/laravel.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/laravel.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/vuejs/index.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/vuejs.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/vuejs.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/admin/reactjs/index.html" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/reactjs.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/reactjs.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="javascript:alert('.NET Core 5.0 MVC Version only available in downloaded version.');" class="theme-version-link">
-<span style="background-image: url(../assets/img/version/dotnet.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/version/dotnet.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 </div>
@@ -1690,27 +1688,27 @@ Aliquam nec dolor vel nisl dictum ullamcorper. Duis vel magna enim. Aenean volut
 <div class="theme-version">
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/frontend/one-page-parallax/index.html" target="_blank" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/one-page-parallax.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/one-page-parallax.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/frontend/e-commerce/index.html" target="_blank" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/e-commerce.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/e-commerce.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/frontend/blog/index.html" target="_blank" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/blog.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/blog.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/frontend/forum/index.html" target="_blank" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/forum.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/forum.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 <div class="theme-version-item">
 <a href="https://seantheme.com/color-admin/frontend/corporate/index.html" target="_blank" class="theme-version-link">
-<span style="background-image: url(../assets/img/theme/corporate.jpg);" class="theme-version-cover"></span>
+<span style="background-image: url(/assets/img/theme/corporate.jpg);" class="theme-version-cover"></span>
 </a>
 </div>
 </div>
@@ -1727,36 +1725,36 @@ Aliquam nec dolor vel nisl dictum ullamcorper. Duis vel magna enim. Aenean volut
 </div>
 
 
-<script src="../assets/js/vendor.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/js/app.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/js/theme/default.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/js/vendor.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/js/app.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/js/theme/default.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
 
 
-<script src="../assets/plugins/gritter/js/jquery.gritter.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.canvaswrapper.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.colorhelpers.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.saturated.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.browser.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.drawSeries.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.uiConstants.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.time.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.resize.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.pie.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.crosshair.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.categories.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.navigate.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.touchNavigate.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.hover.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.touch.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.selection.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.symbol.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/flot/source/jquery.flot.legend.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/jquery-sparkline/jquery.sparkline.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/jvectormap-next/jquery-jvectormap.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/jvectormap-next/jquery-jvectormap-world-mill.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-<script src="../assets/js/demo/dashboard.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/gritter/js/jquery.gritter.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.canvaswrapper.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.colorhelpers.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.saturated.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.browser.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.drawSeries.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.uiConstants.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.time.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.resize.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.pie.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.crosshair.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.categories.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.navigate.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.touchNavigate.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.hover.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.touch.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.selection.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.symbol.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/flot/source/jquery.flot.legend.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/jquery-sparkline/jquery.sparkline.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/jvectormap-next/jquery-jvectormap.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/jvectormap-next/jquery-jvectormap-world-mill.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+<script src="/assets/js/demo/dashboard.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
 
 @yield('scripts')
 <script type="33f9fbfdfbe9d3ee3d651aa4-text/javascript">
@@ -1769,8 +1767,6 @@ Aliquam nec dolor vel nisl dictum ullamcorper. Duis vel magna enim. Aenean volut
 		ga('send', 'pageview');
 
 	</script>
-<script src="../../../cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="33f9fbfdfbe9d3ee3d651aa4-|49" defer=""></script><script defer src="../../../../static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"6a4050a109c1d73d","version":"2021.10.0","r":1,"token":"4db8c6ef997743fda032d4f73cfeff63","si":100}'></script>
+<script src="/assets/plugins/seantheme.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="33f9fbfdfbe9d3ee3d651aa4-|49" defer=""></script><script defer src="../../../../static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"6a4050a109c1d73d","version":"2021.10.0","r":1,"token":"4db8c6ef997743fda032d4f73cfeff63","si":100}'></script>
 </body>
-
-<!-- Mirrored from seantheme.com/color-admin/admin/html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 26 Oct 2021 02:40:39 GMT -->
 </html>
