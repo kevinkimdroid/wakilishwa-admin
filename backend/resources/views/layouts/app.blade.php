@@ -1725,37 +1725,50 @@
 		</div>
 
 
-		<script src="/assets/js/vendor.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/js/app.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/js/theme/default.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+		<script src="/assets/js/vendor.min.js" type="text/javascript"></script>
+		<script src="/assets/js/app.min.js" type="text/javascript"></script>
+		<script src="/assets/js/theme/default.min.js" type="text/javascript"></script>
 
 
-		<script src="/assets/plugins/gritter/js/jquery.gritter.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.canvaswrapper.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.colorhelpers.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.saturated.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.browser.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.drawSeries.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.uiConstants.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.time.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.resize.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.pie.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.crosshair.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.categories.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.navigate.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.touchNavigate.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.hover.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.touch.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.selection.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.symbol.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/flot/source/jquery.flot.legend.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/jquery-sparkline/jquery.sparkline.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/jvectormap-next/jquery-jvectormap.min.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/jvectormap-next/jquery-jvectormap-world-mill.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
-		<script src="/assets/js/demo/dashboard.js" type="33f9fbfdfbe9d3ee3d651aa4-text/javascript"></script>
+		<script src="/assets/plugins/gritter/js/jquery.gritter.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.canvaswrapper.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.colorhelpers.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.saturated.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.browser.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.drawSeries.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.uiConstants.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.time.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.resize.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.pie.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.crosshair.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.categories.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.navigate.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.touchNavigate.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.hover.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.touch.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.selection.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.symbol.js" type="text/javascript"></script>
+		<script src="/assets/plugins/flot/source/jquery.flot.legend.js" type="text/javascript"></script>
+		<script src="/assets/plugins/jquery-sparkline/jquery.sparkline.min.js" type="text/javascript"></script>
+		<script src="/assets/plugins/jvectormap-next/jquery-jvectormap.min.js" type="text/javascript"></script>
+		<script src="/assets/plugins/jvectormap-next/jquery-jvectormap-world-mill.js" type="text/javascript"></script>
+		<script src="/assets/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.js" type="text/javascript"></script>
+		<script src="/assets/js/demo/dashboard.js" type="text/javascript"></script>
 
 		@yield('scripts')
+
+        <script type="text/javascript">
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','/assets/js/analytics.js','ga');
+
+                ga('create', 'UA-53034621-1', 'auto');
+                ga('send', 'pageview');
+
+            </script>
+        <script src="/assets/plugins/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="|49" defer=""></script>
+		<script defer src="/assets/js/beacon.min.js" data-cf-beacon='{"rayId":"6a4050a109c1d73d","version":"2021.10.0","r":1,"token":"4db8c6ef997743fda032d4f73cfeff63","si":100}'></script>
 	</body>
 </html>

@@ -1768,6 +1768,7 @@
                 ga('send', 'pageview');
 
             </script>
-        <script src="/assets/plugins/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="|49" defer=""></script><script defer src="/assets/js/beacon.min.js" data-cf-beacon='{"rayId":"6a4050a109c1d73d","version":"2021.10.0","r":1,"token":"4db8c6ef997743fda032d4f73cfeff63","si":100}'></script>
+        <script src="/assets/plugins/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="|49" defer=""></script>
+		<script defer src="/assets/js/beacon.min.js" data-cf-beacon='{"rayId":"6a4050a109c1d73d","version":"2021.10.0","r":1,"token":"4db8c6ef997743fda032d4f73cfeff63","si":100}'></script>
 	</body>
 </html>
